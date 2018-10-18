@@ -1,0 +1,3 @@
+[submodule "Entities"]
+	path = Entities
+	url = https://github.com/rotsen24154/Entities.git
